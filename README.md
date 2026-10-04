@@ -1,4 +1,4 @@
-# Amazon-Retail-Sales-Dashboard
+# Ecommerce-Retail-Sales-Dashboard
 
 A retail analytics dashboard focused on sales performance, customer behavior, product efficiency, and regional business growth.
 
